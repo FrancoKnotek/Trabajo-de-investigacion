@@ -1,7 +1,7 @@
     .parent {
         display: grid;
         grid-template-columns: repeat(5, 1fr);
-        grid-template-rows: repeat(5, 1fr);
+        grid-template-rows: repeat(8, 1fr);
     }
     
     .caratula {
@@ -21,7 +21,5 @@
     }
     
     .formulario {
-        grid-row: 3;
-        grid-column-start: 1;
-        grid-column-end: 4;
+        grid-row: 7;
     }
