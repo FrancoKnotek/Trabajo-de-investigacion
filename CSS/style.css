@@ -19,3 +19,9 @@
         grid-column-end: 4;
         height: 45px;
     }
+    
+    .formulario {
+        grid-row: 3;
+        grid-column-start: 1;
+        grid-column-end: 4;
+    }
