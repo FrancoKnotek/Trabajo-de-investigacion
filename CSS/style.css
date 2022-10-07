@@ -1,7 +1,4 @@
 .caratula {
-    @font-face {
-        font-family: liberation-serif, serif;
-        src: url("https: //allfont.net/allfont.css?fonts=liberation-serif");
-    }
-    ;
+    font-family: serif;
+    font-size: 20px;
 }
